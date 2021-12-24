@@ -1,6 +1,6 @@
 # LIBRARY SETTINGS - SET AS NECESSARY
 # 
-# For recent versions of BamTools (>= 2.5):
+# For recent versions of BamTools (>= 2.5): For v2.5.2, BAMTOOLS_LIB=$(BAMTOOLS_PATH)/lib 
 #
 BOOST_PATH ?= /data/projects/phillippy/software/boost_1_60_0/
 BAMTOOLS_PATH ?= /data/projects/phillippy/software/bamtools_new/install
